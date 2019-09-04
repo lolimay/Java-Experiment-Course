@@ -6,7 +6,7 @@ public class TheFloatIsGreaterThanDouble {
         double y = 0.4;
 
         if (x > y) {
-            System.out.println("Hello, it's me!");
+            System.out.println("float 0.4 > double 0.4");
         }
     }
 }
