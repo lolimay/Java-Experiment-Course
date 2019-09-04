@@ -6,6 +6,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - E",
+            "request": "launch",
+            "mainClass": "E"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TheFloatIsGreaterThanDouble",
+            "request": "launch",
+            "mainClass": "TheFloatIsGreaterThanDouble"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Hello",
             "request": "launch",
             "mainClass": "Hello"
