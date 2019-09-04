@@ -1,4 +1,4 @@
-public class E {
+public class BasicOutput {
     public static void main(String[] args) {
         char x='你', y='e', z='吃';
         if (x > 'A') {

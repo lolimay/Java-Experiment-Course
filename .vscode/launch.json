@@ -6,6 +6,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PrintTheReferenceOfAnObject",
+            "request": "launch",
+            "mainClass": "PrintTheReferenceOfAnObject"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - While",
+            "request": "launch",
+            "mainClass": "While"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JEP",
+            "request": "launch",
+            "mainClass": "JEP"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - E",
             "request": "launch",
             "mainClass": "E"
@@ -26,7 +44,7 @@
             "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
-            "mainClass": "${file}"
+            "mainClass": "${file}",
         }
     ]
 }
