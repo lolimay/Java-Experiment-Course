@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AlarmDoor",
+            "request": "launch",
+            "mainClass": "AlarmDoor"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Application",
+            "request": "launch",
+            "mainClass": "Application"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Simulator",
+            "request": "launch",
+            "mainClass": "Simulator"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Trans",
+            "request": "launch",
+            "mainClass": "Trans"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DynamicParameters",
+            "request": "launch",
+            "mainClass": "DynamicParameters"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "App"
+        }
+    ]
+}
