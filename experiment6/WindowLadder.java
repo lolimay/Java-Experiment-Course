@@ -7,7 +7,7 @@ public class WindowLadder extends JFrame implements ActionListener {
     private JTextField textA, textB, textC;
     private JTextArea showArea;
     private JButton controlButton;
-    // Fix warning:
+    // Fix warning:a
     // The serializable class WindowLadder does not declare a
     // static final serialVersionUID field of type longJava(536871008)
     private static final long serialVersionUID = 1L;
