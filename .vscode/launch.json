@@ -6,6 +6,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WindowLadder",
+            "request": "launch",
+            "mainClass": "WindowLadder"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PrintTheReferenceOfAnObject",
             "request": "launch",
             "mainClass": "PrintTheReferenceOfAnObject"
@@ -44,7 +56,7 @@
             "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
-            "mainClass": "${file}",
+            "mainClass": "${file}"
         }
     ]
 }
