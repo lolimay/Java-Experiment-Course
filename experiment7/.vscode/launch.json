@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Price",
+            "request": "launch",
+            "mainClass": "Price"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReverseTXT",
+            "request": "launch",
+            "mainClass": "ReverseTXT"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AddLineNumber",
+            "request": "launch",
+            "mainClass": "AddLineNumber"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReverseTxt",
+            "request": "launch",
+            "mainClass": "ReverseTxt"
+        }
+    ]
+}
